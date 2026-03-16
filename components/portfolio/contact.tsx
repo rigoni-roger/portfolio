@@ -31,7 +31,7 @@ export function Contact() {
 
           <div className="space-y-3 md:space-y-4">
             <Link
-              href="mailto:roger.alves.rigoni@gmail.com"
+              href="mailto:rogerrigoni.a@gmail.com"
               className="flex items-center gap-3 md:gap-4 p-3 md:p-4 rounded-lg bg-card border border-border hover:border-primary/50 transition-colors group"
             >
               <Mail className="h-5 w-5 text-muted-foreground group-hover:text-primary transition-colors shrink-0" />
@@ -40,13 +40,13 @@ export function Contact() {
                   Email
                 </p>
                 <p className="text-foreground group-hover:text-primary transition-colors text-sm md:text-base truncate">
-                  roger.alves.rigoni@gmail.com
+                  rogerrigoni.a@gmail.com
                 </p>
               </div>
             </Link>
 
             <Link
-              href="https://linkedin.com/in/roger-alves-rigoni"
+              href="https://linkedin.com/in/roger-rigoni"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 md:gap-4 p-3 md:p-4 rounded-lg bg-card border border-border hover:border-primary/50 transition-colors group"
@@ -57,13 +57,13 @@ export function Contact() {
                   LinkedIn
                 </p>
                 <p className="text-foreground group-hover:text-primary transition-colors text-sm md:text-base truncate">
-                  linkedin.com/in/roger-alves-rigoni
+                  linkedin.com/in/roger-rigoni
                 </p>
               </div>
             </Link>
 
             <Link
-              href="https://github.com/rogeralvesrigoni"
+              href="https://github.com/rigoni-roger"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 md:gap-4 p-3 md:p-4 rounded-lg bg-card border border-border hover:border-primary/50 transition-colors group"
@@ -74,7 +74,7 @@ export function Contact() {
                   GitHub
                 </p>
                 <p className="text-foreground group-hover:text-primary transition-colors text-sm md:text-base truncate">
-                  github.com/rogeralvesrigoni
+                  github.com/rigoni-roger
                 </p>
               </div>
             </Link>
@@ -85,7 +85,9 @@ export function Contact() {
                 <p className="text-xs text-muted-foreground uppercase tracking-wider">
                   Location
                 </p>
-                <p className="text-foreground text-sm md:text-base">Brazil (UTC-3)</p>
+                <p className="text-foreground text-sm md:text-base">
+                  Brazil (UTC-3)
+                </p>
               </div>
             </div>
           </div>
